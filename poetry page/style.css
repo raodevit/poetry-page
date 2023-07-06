@@ -1,0 +1,36 @@
+body{
+    background-color:
+    #A53860 ;
+}
+
+.heading{
+    font-family: 'Caudex', serif;
+    color: #F9DBBD;
+    text-align: center;
+}
+
+.author{
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: x-large;
+    color: #F9DBBD;
+    text-align: center;
+}
+
+.poetry{
+    font-family: 'Gentium Book Plus', serif;
+    font-weight: bold;
+    color: #F9DBBD;
+    text-align: center;
+font-size: medium;}
+
+.main{
+    border: solid;
+    border-color: #450920;
+background-color: #450920;
+margin: 0px 200px;
+ box-shadow: #DA627D 0px 7px 29px 0px; ;
+ 
+
+
+
+}
